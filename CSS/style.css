@@ -21,11 +21,15 @@ header {
     margin: 30px 0px 10px 5px;
 }
 
+/* ****** / header  */
+
 /* ****** main */
 
-.titolo {
-    margin: 15px 0px 7px 5px ;
+main {
+    margin: 15px 5px 0 5px;
 }
+
+/* sezione titolo */
 
 h3 {
     width: 80%;
@@ -43,3 +47,17 @@ section.titolo > p {
 #data {
     font-size: 12px;
 }
+
+/* / sezione titolo */
+
+/* sezione immagini */
+
+.immagini {
+    margin-top: 16px;
+}
+
+section.immagini > p {
+    font-size: 12px;
+}
+
+/* / sezione immagini */
