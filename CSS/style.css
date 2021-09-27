@@ -32,7 +32,7 @@ main {
 /* sezione titolo */
 
 h3 {
-    width: 80%;
+    width: 85%;
     font-size: 40px;
 }
 
@@ -64,6 +64,10 @@ section.immagini > p {
 
 /* sezione descrizione */
 
+.descrizione {
+    font-size: 16px;
+}
+
 section.descrizione > p {
     padding: 10px 0 20px 0;
 }
@@ -72,4 +76,38 @@ section.descrizione > ul {
     padding-left: 15px;
 }
 
+#testo-giallo {
+    background: rgba(253,253,0,255);
+}
+
 /* / sezione descrizione */
+
+/* sezione tabella */
+
+table {
+    margin-top: 20px;
+}
+
+th {
+    color: white;
+    width: 25%; 
+}
+
+.tabella {
+    font-size: 16px;
+}
+
+#terza-intestazione {
+    width: 50%;
+}
+
+#riga-intestazione {
+    background: rgba(32,169,229,255);
+}
+
+.righe-dispari {
+    background: rgba(177,229,242,255);
+}
+
+
+/* /sezione tabella */
