@@ -61,3 +61,15 @@ section.immagini > p {
 }
 
 /* / sezione immagini */
+
+/* sezione descrizione */
+
+section.descrizione > p {
+    padding: 10px 0 20px 0;
+}
+
+section.descrizione > ul {
+    padding-left: 15px;
+}
+
+/* / sezione descrizione */
