@@ -3,10 +3,6 @@
     padding: 0;
 }
 
-body {
-}
-
-
 /* ****** header */
 
 header {
@@ -27,6 +23,7 @@ header {
 
 main {
     margin: 15px 5px 0 5px;
+    font-size: 16px;
 }
 
 /* sezione titolo */
@@ -64,10 +61,6 @@ section.immagini > p {
 
 /* sezione descrizione */
 
-.descrizione {
-    font-size: 16px;
-}
-
 section.descrizione > p {
     padding: 10px 0 20px 0;
 }
@@ -93,11 +86,7 @@ th {
     width: 25%; 
 }
 
-.tabella {
-    font-size: 16px;
-}
-
-#terza-intestazione {
+#terza-colonna {
     width: 50%;
 }
 
@@ -109,5 +98,12 @@ th {
     background: rgba(177,229,242,255);
 }
 
-
 /* /sezione tabella */
+
+/* sezione testo finale */
+
+.testo-finale {
+    padding-top: 20px;
+}
+
+/* / sezione testo finale */
